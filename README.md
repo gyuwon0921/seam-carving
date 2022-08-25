@@ -1,5 +1,1 @@
-# seam-carving
-# GyuWon_blog
-# GyuWon_blog
-# GyuWon_blog
-# GyuWon_blog
+# CS-128 : MP : Seam Carver
